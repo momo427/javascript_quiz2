@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
-
+/*
+Styling for index.html
+Use of root element to select html document*/
 :root {
     background-color: rgb(29, 26, 26)
 }
 
+/*Use of google fonts*/
 * {
     box-sizing: border-box;
     margin: 0;
